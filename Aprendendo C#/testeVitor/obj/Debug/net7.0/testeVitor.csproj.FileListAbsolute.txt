@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\obj\Debug\net7.0\testeVitor.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\obj\Debug\net7.0\testeVitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\obj\Debug\net7.0\testeVitor.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\obj\Debug\net7.0\testeVitor.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\obj\Debug\net7.0\testeVitor.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\bin\Debug\net7.0\testeVitor.exe
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\bin\Debug\net7.0\testeVitor.deps.json
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\bin\Debug\net7.0\testeVitor.runtimeconfig.json
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\bin\Debug\net7.0\testeVitor.dll
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\bin\Debug\net7.0\testeVitor.pdb
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\obj\Debug\net7.0\testeVitor.dll
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\obj\Debug\net7.0\refint\testeVitor.dll
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\obj\Debug\net7.0\testeVitor.pdb
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\obj\Debug\net7.0\testeVitor.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Projeto Café\testeVitor\obj\Debug\net7.0\ref\testeVitor.dll

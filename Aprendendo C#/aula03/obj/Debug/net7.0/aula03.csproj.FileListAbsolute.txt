@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Projeto Café\aula03\bin\Debug\net7.0\aula03.exe
+C:\Users\thiag\Desktop\Projeto Café\aula03\bin\Debug\net7.0\aula03.deps.json
+C:\Users\thiag\Desktop\Projeto Café\aula03\bin\Debug\net7.0\aula03.runtimeconfig.json
+C:\Users\thiag\Desktop\Projeto Café\aula03\bin\Debug\net7.0\aula03.dll
+C:\Users\thiag\Desktop\Projeto Café\aula03\bin\Debug\net7.0\aula03.pdb
+C:\Users\thiag\Desktop\Projeto Café\aula03\obj\Debug\net7.0\aula03.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Projeto Café\aula03\obj\Debug\net7.0\aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Projeto Café\aula03\obj\Debug\net7.0\aula03.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Projeto Café\aula03\obj\Debug\net7.0\aula03.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Projeto Café\aula03\obj\Debug\net7.0\aula03.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Projeto Café\aula03\obj\Debug\net7.0\aula03.dll
+C:\Users\thiag\Desktop\Projeto Café\aula03\obj\Debug\net7.0\refint\aula03.dll
+C:\Users\thiag\Desktop\Projeto Café\aula03\obj\Debug\net7.0\aula03.pdb
+C:\Users\thiag\Desktop\Projeto Café\aula03\obj\Debug\net7.0\aula03.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Projeto Café\aula03\obj\Debug\net7.0\ref\aula03.dll
